@@ -1,9 +1,9 @@
 # Hi there, I'm Madhumita Mandal 👋  
 
 ### 💡 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-brightgreen?style=for-the-badge&logo=geeksforgeeks)](YOUR_GFG_URL)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/madhumita-mandal-2b2169346/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-brightgreen?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/madhumitam0ca8/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/madhuuuuuuu/)
 
 ---
 
