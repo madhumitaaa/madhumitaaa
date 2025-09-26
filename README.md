@@ -1,44 +1,42 @@
-# Madhumita Mandal  
+# Hi there, I'm Madhumita Mandal 👋  
 
-💻 **Full Stack Developer | Competitive Programmer**  
-📍 Kolkata, India | 📧 madhumitamandal12082003@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/madhumita-mandal-2b2169346) | 💻 [GitHub](https://github.com/madhumitaaa)  
-
----
-
-## 💼 Experience  
-**Full Stack Developer Intern — GNCIPL (Jul 2025 – Aug 2025)**  
-- Built & deployed **5+ MERN apps** and **1 live client project** under strict deadlines.  
-- Integrated **React, Node.js, MongoDB, REST APIs, JWT authentication**.  
-- Collaborated in a **5-member team** using Git workflows & code reviews.  
+### 💡 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-brightgreen?style=for-the-badge&logo=geeksforgeeks)](YOUR_GFG_URL)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
 
 ---
 
-## 📂 Projects  
-- **Global Connect** – MERN client app with REST APIs & JWT auth, deployed on Vercel.  
-- **Mentorship Platform** – Role-based dashboards & session booking with secure APIs.  
-- **Health Tracker** – JWT-secured MERN health & wellness tracker with CRUD features.  
+### 🛠️ Languages and Tools:
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/> 
+</p>
 
 ---
 
-## ⚡ Skills  
-- **Languages:** C, C++, JavaScript  
-- **Frontend:** React.js, HTML5, CSS3  
-- **Backend:** Node.js, Express.js, REST APIs, JWT  
-- **Databases:** MySQL, MongoDB  
-- **Tools:** Git, GitHub, Docker, Postman, Vercel, Netlify, Render  
-- **Core CS:** DSA, OOP, OS, CN, SQL  
-- **CP:** 350+ problems (LeetCode 170+, Codeforces, GFG); Striver SDE Sheet (150+)  
+### 📊 GitHub Stats:
+![Madhumita's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhumitaaa&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitaaa&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhumitaaa&theme=radical)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=madhumitaaa&theme=react-dark)
 
 ---
 
-## 🎓 Education  
-- **Heritage Institute of Technology, Kolkata** — B.Tech Electrical Engg. (2022–2026), **CGPA: 7.49**  
-- **Army Public School, Chandigarh** — CBSE, **97.2%**  
+### 🏆 GitHub Achievements:
+![trophy](https://github-profile-trophy.vercel.app/?username=madhumitaaa&theme=onedark)
 
 ---
 
-## 🏆 Achievements  
-- JavaScript – HackerRank (Certified)  
-- Node.js – Infosys SpringBoard (Certified)  
-- Hack Heritage 2023, NIT Kurukshetra — Built *Pralay Nivarak* disaster management app  
-- 400+ GitHub commits  
+✨ _Thanks for visiting my profile!_ ✨
