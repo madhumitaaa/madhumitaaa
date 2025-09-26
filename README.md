@@ -25,7 +25,7 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/render/render-original.svg" width="40"/> 
+
 
 </p>
 
