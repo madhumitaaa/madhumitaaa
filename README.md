@@ -26,17 +26,9 @@
 ### 📊 GitHub Stats:
 ![Madhumita's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhumitaaa&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitaaa&layout=compact&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhumitaaa&theme=radical)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=madhumitaaa&theme=react-dark)
-
----
-
-### 🏆 GitHub Achievements:
-![trophy](https://github-profile-trophy.vercel.app/?username=madhumitaaa&theme=onedark)
 
 ---
 
 ✨ _Thanks for visiting my profile!_ ✨
+
