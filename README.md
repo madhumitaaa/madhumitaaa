@@ -37,4 +37,4 @@
 
 ---
 
-✨ _Thanks for visiting my profile!_ ✨ status and streak bg change to white
+✨ _Thanks for visiting my profile!_ ✨ 
