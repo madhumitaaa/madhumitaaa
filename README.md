@@ -30,13 +30,11 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats:
-![Madhumita's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhumitaaa&show_icons=true&theme=radical)
+![Madhumita's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhumitaaa&show_icons=true&theme=default&bg_color=FFFFFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhumitaaa&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhumitaaa&theme=default&background=FFFFFF)
 
----
 
 ✨ _Thanks for visiting my profile!_ ✨
 
