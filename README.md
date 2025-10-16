@@ -22,13 +22,10 @@
 </p>
 
 ---
-
 ### 🛠️ Technical Skills  
 
-### 🛠️ Tech Stack  
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,react,html,css,bootstrap,nodejs,express,mongodb,mysql,git,github,postman,vercel,netlify" height="50" style="margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,react,html,css,bootstrap,nodejs,express,mongodb,mysql,git,github,postman,vercel,netlify" height="60" style="margin:7px;" />
 </p>
 
 
