@@ -6,17 +6,27 @@
 
 ### 💼 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhumita-mandal-2b2169346/)  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/madhumitam0ca8/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/madhuuuuuuu/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhumitaaa)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/madhumita-mandal-2b2169346/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/madhumitam0ca8/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/madhuuuuuuu/">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://github.com/madhumitaaa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ### 🛠️ Technical Skills  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,react,html,css,bootstrap,nodejs,express,mongodb,mysql,git,github,postman,vercel,netlify&theme=light" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,react,html,css,bootstrap,nodejs,express,mongodb,mysql,git,github,postman,vercel,netlify" />
 </p>
 
 ---
