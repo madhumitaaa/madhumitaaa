@@ -27,27 +27,50 @@
 ### 🛠️ Technical Skills  
 
 <p align="center">
+  <!-- Languages -->
+  <strong>Languages:</strong>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="50" style="margin:5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="50" style="margin:5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" style="margin:5px;" />
+</p>
+
+<p align="center">
   <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="60" style="margin:10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="60" style="margin:10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="60" style="margin:10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="60" style="margin:10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="60" style="margin:10px;" />
+  <strong>Frontend:</strong>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="50" style="margin:5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="50" style="margin:5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="50" style="margin:5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="50" style="margin:5px;" />
+</p>
 
+<p align="center">
   <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="60" style="margin:10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="60" style="margin:10px;" />
+  <strong>Backend:</strong>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="50" style="margin:5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="50" style="margin:5px;" />
+</p>
 
-  <!-- Database -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="60" style="margin:10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="60" style="margin:10px;" />
+<p align="center">
+  <!-- Databases -->
+  <strong>Databases:</strong>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="50" style="margin:5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="50" style="margin:5px;" />
+</p>
 
-  <!-- Tools & Deployment -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="60" style="margin:10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="60" style="margin:10px;" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="60" style="margin:10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" height="60" style="margin:10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" height="60" style="margin:10px;" />
+<p align="center">
+  <!-- DevOps & Deployment -->
+  <strong>DevOps & Deployment:</strong>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="50" style="margin:5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="50" style="margin:5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="50" style="margin:5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" height="50" style="margin:5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" height="50" style="margin:5px;" />
+</p>
+
+<p align="center">
+  <!-- Core CS -->
+  <strong>Core CS:</strong>
+  Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks
 </p>
 
 ---
