@@ -40,7 +40,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=madhumitaaa&show_icons=true&theme=tokyonight&hide_border=false&border_radius=15" alt="Madhumita's GitHub stats" height="165" />
-  <img src="https://streak-stats.demolab.com?user=madhumitaaa&theme=tokyonight&hide_border=false&border_radius=15" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
