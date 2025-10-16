@@ -25,9 +25,12 @@
 
 ### 🛠️ Technical Skills  
 
+### 🛠️ Tech Stack  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,react,html,css,bootstrap,nodejs,express,mongodb,mysql,git,github,postman,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,react,html,css,bootstrap,nodejs,express,mongodb,mysql,git,github,postman,vercel,netlify" height="50" style="margin:5px;" />
 </p>
+
 
 ---
 
@@ -35,7 +38,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=madhumitaaa&show_icons=true&theme=transparent&hide_border=false&border_radius=15" height="165" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=madhumitaaa&theme=transparent&hide_border=false&border_radius=15" height="165" alt="GitHub Streak" />
 </p>
 
 <p align="center">
