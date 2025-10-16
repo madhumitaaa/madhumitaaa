@@ -22,12 +22,33 @@
 </p>
 
 ---
+
+
 ### 🛠️ Technical Skills  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,react,html,css,bootstrap,nodejs,express,mongodb,mysql,git,github,postman,vercel,netlify" height="60" style="margin:7px;" />
-</p>
+  <!-- Frontend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="60" style="margin:10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="60" style="margin:10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="60" style="margin:10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="60" style="margin:10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="60" style="margin:10px;" />
 
+  <!-- Backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="60" style="margin:10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="60" style="margin:10px;" />
+
+  <!-- Database -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="60" style="margin:10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="60" style="margin:10px;" />
+
+  <!-- Tools & Deployment -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="60" style="margin:10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="60" style="margin:10px;" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="60" style="margin:10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" height="60" style="margin:10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" height="60" style="margin:10px;" />
+</p>
 
 ---
 
