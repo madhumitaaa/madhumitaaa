@@ -60,6 +60,13 @@
 </p>
 
 ---
+### 🏆 Holopin Badges
+
+[![Holopin Badge](https://www.holopin.io/_next/image?url=https://assets.holopin.io/badges/cmh8wyk0400c1l504fgug2ynr.png&w=400&q=75)](https://www.holopin.io/userbadge/cmh8wyk0400c1l504fgug2ynr)
+[![Holopin Badge](https://www.holopin.io/_next/image?url=https://assets.holopin.io/badges/cmh4w62mx00dajv04oxyp5wx8.png&w=400&q=75)](https://www.holopin.io/userbadge/cmh4w62mx00dajv04oxyp5wx8)
+
+[![@madhumitlaaa's Holopin Board](https://holopin.me/madhumitlaaa)](https://holopin.io/@madhumitlaaa)
+
 
 ### 📌 About Me  
 
