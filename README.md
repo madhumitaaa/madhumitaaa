@@ -62,10 +62,10 @@
 ---
 ### 🏆 Holopin Badges
 
-<img width="1438" height="1352" alt="image" src="https://github.com/user-attachments/assets/d21bdd04-a4cd-4fcf-88fe-6d56d95f4fbd" />
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/c99f7f7a-8138-4c22-b58a-60fa1425da7b" />
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d21bdd04-a4cd-4fcf-88fe-6d56d95f4fbd" width="250" height="250" alt="Holopin Badge 1" />
+  <img src="https://github.com/user-attachments/assets/c99f7f7a-8138-4c22-b58a-60fa1425da7b" width="250" height="250" alt="Holopin Badge 2" />
+</p>
 
 [![@madhumitlaaa's Holopin Board](https://holopin.me/madhumitlaaa)](https://holopin.io/@madhumitlaaa)
 
