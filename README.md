@@ -61,11 +61,14 @@
 
 ---
 ### 🏆 Holopin Badges
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d21bdd04-a4cd-4fcf-88fe-6d56d95f4fbd" width="160" height="160" alt="Holopin Badge 1" />
-  <img src="https://github.com/user-attachments/assets/c99f7f7a-8138-4c22-b58a-60fa1425da7b" width="160" height="160" alt="Holopin Badge 2" />
+  <img src="https://github.com/user-attachments/assets/c99f7f7a-8138-4c22-b58a-60fa1425da7b" width="120" height="120" alt="Holopin Badge 1" />
+  <img src="https://github.com/user-attachments/assets/9f32a55d-56ce-4178-8ef7-7e2f8aa79aaa" width="120" height="120" alt="Holopin Badge 2" />
+  <img src="https://github.com/user-attachments/assets/c8405991-b2d2-47aa-9589-4e68e51bb202" width="120" height="120" alt="Holopin Badge 3" />
+  <img src="https://github.com/user-attachments/assets/e1acd2b2-fca3-4e89-8b09-12aa85022a6b" width="120" height="120" alt="Holopin Badge 4" />
+  <img src="https://github.com/user-attachments/assets/51290f3d-237d-4494-8946-53a210e82921" width="120" height="120" alt="Holopin Badge 5" />
 </p>
+
 
 
 ### 📌 About Me  
